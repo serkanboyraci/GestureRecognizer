@@ -45,7 +45,7 @@ class ViewController: UIViewController {
             number -= 2
             // pic = true
         }
-        
+       // burda resim sayisini ekledikce artacak sekilde otomatize edilir mi ? sonradan denenmeli
         
         
     }
