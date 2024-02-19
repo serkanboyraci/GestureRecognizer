@@ -11,6 +11,7 @@ class ViewController: UIViewController {
     @IBOutlet var imageView: UIImageView!
     @IBOutlet var nameLabel: UILabel!
     
+
     var number = 0
     //var pic = true // to do it with two pictures.
     override func viewDidLoad() {
@@ -45,7 +46,7 @@ class ViewController: UIViewController {
             number -= 2
             // pic = true
         }
-       // burda resim sayisini ekledikce artacak sekilde otomatize edilir mi ? sonradan denenmeli
+     // resim sayisi icin otomatize olamadi.
         
         
     }
